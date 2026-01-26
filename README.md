@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Golden Kumar</h1>
-<h3 align="center">MCA Student | Aspiring Software Developer</h3>
+<h3 align="center">MCA Student (Computer Science) | Aspiring Software Developer</h3>
 
 <p align="center">
   <a href="https://goldenkumar.netlify.app/" target="_blank">🌐 Portfolio</a> •
@@ -32,7 +32,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔹 **Golden AI Powered Voice Assistant** (Python, AI, Automation)  
+- 🔹 **AI Powered Voice Assistant** (Python, AI, Automation)  
 - 🔹 **Smart Tic-Tac-Toe Game** (Java, Minimax AI, GUI)  
 - 🔹 **Number Shifting Puzzle** (C, Algorithms)  
 - 🔹 **Personal Portfolio Website**  
