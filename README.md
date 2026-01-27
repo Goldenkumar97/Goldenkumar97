@@ -1,5 +1,11 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Goldenkumar97&label=Total%20Visitors&color=00d4ff&style=for-the-badge" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Golden Kumar</h1>
-<h3 align="center">MCA Student (Computer Science) | Aspiring Software Developer</h3>
+<h3 align="center">
+MCA Student (Computer Science)
+</h3>
 
 <p align="center">
   <a href="https://goldenkumar.netlify.app/" target="_blank">🌐 Portfolio</a> •
@@ -10,10 +16,15 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 MCA student with strong fundamentals in **Computer Science**
-- 💡 Interested in **AI automation**, **problem solving**, and **real-world projects**
-- 🧠 Solid understanding of **DSA, OOP, DBMS, SQL, Operating Systems**
-- 🚀 Focused on building clean, scalable, and practical applications
+- 🎓 MCA student with a strong foundation in core **Computer Science**
+- 💡 Interested in **AI automation**, **problem solving**, and **real-world development**
+- 🧠 Good understanding of **DSA, OOP, DBMS, SQL, Operating Systems**
+- 🚀 Focused on building **clean, scalable, and practical applications**
+
+---
+
+## 🎯 Career Objective
+To build a career as a software developer where I can apply my problem-solving skills and computer science fundamentals while continuously learning and working with modern technologies.
 
 ---
 
@@ -25,24 +36,29 @@
   <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=mysql"/>
+  <img src="https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=database"/>
   <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-- 🔹 **AI Powered Voice Assistant** (Python, AI, Automation)  
-- 🔹 **Smart Tic-Tac-Toe Game** (Java, Minimax AI, GUI)  
-- 🔹 **Number Shifting Puzzle** (C, Algorithms)  
-- 🔹 **Personal Portfolio Website**  
+- 🔹 **AI Powered Voice Assistant** – Python, AI, Automation  
+  🔗 https://github.com/Goldenkumar97/Golden-AI-Powered-Voice-Assistant  
 
-👉 Explore more in my repositories.
+- 🔹 **Smart Tic-Tac-Toe Game** – Java, Minimax AI, GUI  
+  🔗 https://github.com/Goldenkumar97/Smart-Tic-Tac-Toe  
+
+- 🔹 **Number Shifting Puzzle** – C, Algorithms  
+  🔗 https://github.com/Goldenkumar97/Project-Numbershifiting-Mygame  
+
+- 🔹 **Personal Portfolio Website**  
+  🔗 https://goldenkumar.netlify.app/
 
 ---
 
-## 🌐 Portfolio
-🔗 **https://goldenkumar.netlify.app/**
+## 🔥 GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com/?user=Goldenkumar97&theme=tokyonight)
 
 ---
 
@@ -54,17 +70,18 @@
 
 ---
 
-## 💼 Open For
-- Internship opportunities  
-- Fresher Software Developer roles  
-- AI / Automation based projects  
+## 💼 Currently Open To
+- Software Developer Internship  
+- Entry-Level / Fresher Software Engineer roles  
+- AI & Automation based projects  
 
 ---
 
 ## 📫 Connect With Me
+- 🌐 Portfolio: https://goldenkumar.netlify.app  
 - 🔗 LinkedIn: https://www.linkedin.com/in/golden-kumar-622115268  
 - 💻 GitHub: https://github.com/Goldenkumar97  
 
 ---
 
-⭐ *Always learning. Always Coding.*
+⭐ Feel free to explore my repositories and connect with me for collaboration or opportunities.
