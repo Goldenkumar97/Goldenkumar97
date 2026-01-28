@@ -37,7 +37,6 @@ To build a career as a software developer where I can apply my problem-solving s
   <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=database"/>
-  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
 </p>
 
 ---
