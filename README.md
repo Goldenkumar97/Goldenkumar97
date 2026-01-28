@@ -39,6 +39,14 @@ To build a career as a software developer where I can apply my problem-solving s
   <img src="https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=database"/>
 </p>
 
+### 📚 Core CS Concepts
+<p>
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-green"/>
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-purple"/>
+  <img src="https://img.shields.io/badge/DBMS-Database%20Management%20Systems-blueviolet"/>
+  <img src="https://img.shields.io/badge/OS-Operating%20Systems-orange"/>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -62,10 +70,12 @@ To build a career as a software developer where I can apply my problem-solving s
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goldenkumar97&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenkumar97&layout=compact&theme=tokyonight" height="160"/>
-</p>
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Goldenkumar97&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenkumar97&layout=compact&theme=tokyonight" height="170"/>
+
+
 
 ---
 
