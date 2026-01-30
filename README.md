@@ -70,7 +70,6 @@ To build a career as a software developer where I can apply my problem-solving s
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Goldenkumar97&show_icons=true&theme=tokyonight" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenkumar97&layout=compact&theme=tokyonight" height="170"/>
