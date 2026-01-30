@@ -1,22 +1,20 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Goldenkumar97&label=Total%20Visitors&color=00d4ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Goldenkumar97&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Golden Kumar</h1>
-<h3 align="center">
-MCA Student (Computer Science)
-</h3>
+<h3 align="center">MCA Student (Computer Science)</h3>
 
 <p align="center">
-  <a href="https://goldenkumar.netlify.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/golden-kumar-622115268" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/Goldenkumar97" target="_blank">GitHub</a>
+  <a href="https://goldenkumar.netlify.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/golden-kumar-622115268">LinkedIn</a> •
+  <a href="https://github.com/Goldenkumar97">GitHub</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 MCA student with a strong foundation in core **Computer Science**
+- 🎓 MCA student with a strong foundation in **Computer Science**
 - 💡 Interested in **AI automation**, **problem solving**, and **real-world development**
 - 🧠 Good understanding of **DSA, OOP, DBMS, SQL, Operating Systems**
 - 🚀 Focused on building **clean, scalable, and practical applications**
@@ -36,7 +34,7 @@ To build a career as a software developer where I can apply my problem-solving s
   <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=database"/>
+  <img src="https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=mysql"/>
 </p>
 
 ### 📚 Core CS Concepts
@@ -65,16 +63,14 @@ To build a career as a software developer where I can apply my problem-solving s
 ---
 
 ## 🔥 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com/?user=Goldenkumar97&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Goldenkumar97&theme=tokyonight)
 
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Goldenkumar97&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Goldenkumar97&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenkumar97&layout=compact&theme=tokyonight" height="170"/>
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenkumar97&layout=compact&theme=tokyonight&cache_seconds=86400" height="170"/>
 
 ---
 
