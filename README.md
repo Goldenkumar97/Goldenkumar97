@@ -63,14 +63,15 @@ To build a career as a software developer where I can apply my problem-solving s
 ---
 
 ## 🔥 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=Goldenkumar97&theme=tokyonight)
-
----
+![GitHub Streak](https://ghproxy.com/https://streak-stats.demolab.com?user=Goldenkumar97&theme=tokyonight)
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Goldenkumar97&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
+![Stats](https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=Goldenkumar97&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenkumar97&layout=compact&theme=tokyonight&cache_seconds=86400" height="170"/>
+## 📈 Top Languages
+![Top Langs](https://ghproxy.com/https://github-readme-stats.vercel.app/api/top-langs?username=Goldenkumar97&layout=compact&theme=tokyonight)
+
+
 
 ---
 
