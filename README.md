@@ -1,3 +1,6 @@
+
+<img width="2000" height="600" alt="Black Minimalist Linkedin Banner (7)" src="https://github.com/user-attachments/assets/37a69100-3c30-4d47-98ae-3f5cd91dddd9" />
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Goldenkumar97&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
