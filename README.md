@@ -51,32 +51,31 @@ To build a career as a software developer where I can apply my problem-solving s
 ---
 
 ## 🚀 Featured Projects
-- 🔹 **AI Powered Voice Assistant** – Python, AI, Automation  
-  🔗 https://github.com/Goldenkumar97/Golden-AI-Powered-Voice-Assistant  
 
-- 🔹 **Smart Tic-Tac-Toe Game** – Java, Minimax AI, GUI  
-  🔗 https://github.com/Goldenkumar97/Smart-Tic-Tac-Toe  
+🔹 **AI Powered Voice Assistant**  
+*Python, AI, Automation*  
+🔗 https://github.com/Goldenkumar97/Golden-AI-Powered-Voice-Assistant  
 
-- 🔹 **Number Shifting Puzzle** – C, Algorithms  
-  🔗 https://github.com/Goldenkumar97/Project-Numbershifiting-Mygame  
+🔹 **Smart Tic-Tac-Toe Game**  
+*Java, Minimax AI, GUI*  
+🔗 https://github.com/Goldenkumar97/Smart-Tic-Tac-Toe  
 
-- 🔹 **Personal Portfolio Website**  
-  🔗 https://goldenkumar.netlify.app/
+🔹 **Number Shifting Puzzle Game**  
+*C, Algorithms*  
+🔗 https://github.com/Goldenkumar97/Project-Numbershifiting-Mygame  
 
+🔹 **Personal Portfolio Website**  
+*HTML, CSS, JavaScript*  
+🔗 Live: https://goldenkumar.netlify.app/  
+
+🔹 **MindCare – Mental Health Support Website**  
+*HTML, CSS, JavaScript | Mental Health Awareness*  
+🔗 Live: https://mindcareforu.netlify.app/
+
+  
 ---
 
-## 🔥 GitHub Activity
-![GitHub Streak](https://ghproxy.com/https://streak-stats.demolab.com?user=Goldenkumar97&theme=tokyonight)
 
-## 📊 GitHub Stats
-![Stats](https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=Goldenkumar97&show_icons=true&theme=tokyonight)
-
-## 📈 Top Languages
-![Top Langs](https://ghproxy.com/https://github-readme-stats.vercel.app/api/top-langs?username=Goldenkumar97&layout=compact&theme=tokyonight)
-
-
-
----
 
 ## 💼 Currently Open To
 - Software Developer Internship  
