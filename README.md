@@ -9,7 +9,7 @@
 <h3 align="center">MCA Student (Computer Science)</h3>
 
 <p align="center">
-  <a href="https://goldenkumar.netlify.app/">🌐 Portfolio</a> •
+  <a href="https://goldenkumar-portfolio.netlify.app/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/golden-kumar-622115268">LinkedIn</a> •
   <a href="https://github.com/Goldenkumar97">GitHub</a>
 </p>
@@ -66,7 +66,7 @@ To build a career as a software developer where I can apply my problem-solving s
 
 🔹 **Personal Portfolio Website**  
 *HTML, CSS, JavaScript*  
-🔗 Live: https://goldenkumar.netlify.app/  
+🔗 Live: https://goldenkumar-portfolio.netlify.app/  
 
 🔹 **MindCare – Mental Health Support Website**  
 *HTML, CSS, JavaScript | Mental Health Awareness*  
