@@ -52,27 +52,39 @@ To build a career as a software developer where I can apply my problem-solving s
 
 ## 🚀 Featured Projects
 
-🔹 **AI Powered Voice Assistant**  
-*Python, AI, Automation*  
-🔗 https://github.com/Goldenkumar97/Golden-AI-Powered-Voice-Assistant  
 
-🔹 **Smart Tic-Tac-Toe Game**  
-*Java, Minimax AI, GUI*  
-🔗 https://github.com/Goldenkumar97/Smart-Tic-Tac-Toe  
+🔹 **AI Powered Voice Assistant**
+*Python, AI, Automation*
 
-🔹 **Number Shifting Puzzle Game**  
-*C, Algorithms*  
-🔗 https://github.com/Goldenkumar97/Project-Numbershifiting-Mygame  
+🔗 https://github.com/Goldenkumar97/Golden-AI-Powered-Voice-Assistant
 
-🔹 **Personal Portfolio Website**  
-*HTML, CSS, JavaScript*  
-🔗 Live: https://goldenkumar-portfolio.netlify.app/  
+🔹 **Real-Time Chat Application**
+*Java, WebSocket, HTML, CSS, JavaScript*
 
-🔹 **MindCare – Mental Health Support Website**  
-*HTML, CSS, JavaScript | Mental Health Awareness*  
+🔗 GitHub: https://github.com/Goldenkumar97/Real-time-chat
+
+🔗 Live: https://realtime-chatgo.netlify.app/
+
+🔹 **Smart Tic-Tac-Toe Game**
+*Java, Minimax AI, GUI*
+
+🔗 https://github.com/Goldenkumar97/Smart-Tic-Tac-Toe
+
+🔹 **Number Shifting Puzzle Game**
+*C, Algorithms*
+
+🔗 https://github.com/Goldenkumar97/Project-Numbershifiting-Mygame
+
+🔹 **Personal Portfolio Website**
+*HTML, CSS, JavaScript*
+
+🔗 Live: https://goldenkumar-portfolio.netlify.app/
+
+🔹 **MindCare – Mental Health Support Website**
+*HTML, CSS, JavaScript | Mental Health Awareness*
+
 🔗 Live: https://mindcareforu.netlify.app/
 
-  
 ---
 
 
