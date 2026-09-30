@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Golden Kumar</h1>
-<h3 align="center">MCA Student (Computer Science)</h3>
+<h3 align="center">Computer Science</h3>
 
 <p align="center">
   <a href="https://goldenkumar-portfolio.netlify.app/">🌐 Portfolio</a> •
