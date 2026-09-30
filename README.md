@@ -1,4 +1,3 @@
-
 <img width="2000" height="600" alt="Black Minimalist Linkedin Banner (7)" src="https://github.com/user-attachments/assets/37a69100-3c30-4d47-98ae-3f5cd91dddd9" />
 
 <p align="right">
@@ -72,42 +71,52 @@ To build a career as a software developer where I can apply my problem-solving s
 
 ## 🚀 Featured Projects
 
+🔹 **AI Powered Voice Assistant**  
+*Python, AI, Automation*  
+🔗 [GitHub Repository](https://github.com/Goldenkumar97/Golden-AI-Powered-Voice-Assistant)
 
-🔹 **AI Powered Voice Assistant**
-*Python, AI, Automation*
+🔹 **Real-Time Chat Application**  
+*Java, WebSocket, HTML, CSS, JavaScript*  
+🔗 [GitHub Repository](https://github.com/Goldenkumar97/Real-time-chat) | 🌐 [Live Demo](https://realtime-chatgo.netlify.app/)
 
-🔗 https://github.com/Goldenkumar97/Golden-AI-Powered-Voice-Assistant
+🔹 **Smart Tic-Tac-Toe Game**  
+*Java, Minimax AI, GUI*  
+🔗 [GitHub Repository](https://github.com/Goldenkumar97/Smart-Tic-Tac-Toe)
 
-🔹 **Real-Time Chat Application**
-*Java, WebSocket, HTML, CSS, JavaScript*
+🔹 **Number Shifting Puzzle Game**  
+*C, Algorithms*  
+🔗 [GitHub Repository](https://github.com/Goldenkumar97/Project-Numbershifiting-Mygame)
 
-🔗 GitHub: https://github.com/Goldenkumar97/Real-time-chat
+🔹 **Personal Portfolio Website**  
+*HTML, CSS, JavaScript*  
+🌐 [Live Demo](https://goldenkumar-portfolio.netlify.app/)
 
-🔗 Live: https://realtime-chatgo.netlify.app/
-
-🔹 **Smart Tic-Tac-Toe Game**
-*Java, Minimax AI, GUI*
-
-🔗 https://github.com/Goldenkumar97/Smart-Tic-Tac-Toe
-
-🔹 **Number Shifting Puzzle Game**
-*C, Algorithms*
-
-🔗 https://github.com/Goldenkumar97/Project-Numbershifiting-Mygame
-
-🔹 **Personal Portfolio Website**
-*HTML, CSS, JavaScript*
-
-🔗 Live: https://goldenkumar-portfolio.netlify.app/
-
-🔹 **MindCare – Mental Health Support Website**
-*HTML, CSS, JavaScript | Mental Health Awareness*
-
-🔗 Live: https://mindcareforu.netlify.app/
+🔹 **MindCare – Mental Health Support Website**  
+*HTML, CSS, JavaScript | Mental Health Awareness*  
+🌐 [Live Demo](https://mindcareforu.netlify.app/)
 
 ---
 
+## 📜 Certifications & Badges
+- ☁️ **Oracle Cloud Infrastructure (OCI) AI Foundations** (Oracle)
+- 🤖 **Oracle Generative AI Professional** (Oracle)
+- 💻 **A Job Ready Bootcamp in C++, DSA and IOT** (iNeuron)
+- 🤖 **Building a Deep Research AI Agent** (Analytics Vidhya)
 
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=goldenkumar97&show_icons=true&theme=radical&hide_border=true" alt="Golden's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goldenkumar97&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🏆 Top Languages
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldenkumar97&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 ## 💼 Currently Open To
 - Software Developer Internship  
@@ -117,9 +126,9 @@ To build a career as a software developer where I can apply my problem-solving s
 ---
 
 ## 📫 Connect With Me
-- 🌐 Portfolio: https://goldenkumar.netlify.app  
-- 🔗 LinkedIn: https://www.linkedin.com/in/golden-kumar-622115268  
-- 💻 GitHub: https://github.com/Goldenkumar97  
+- 🌐 Portfolio: [goldenkumar-portfolio.netlify.app](https://goldenkumar-portfolio.netlify.app/)  
+- 🔗 LinkedIn: [Golden Kumar](https://www.linkedin.com/in/golden-kumar-622115268)  
+- 💻 GitHub: [@Goldenkumar97](https://github.com/Goldenkumar97)  
 
 ---
 
